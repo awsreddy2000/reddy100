@@ -1,8 +1,14 @@
+<<<<<<< HEAD
 class hello()  #hello-from dev2
 {
                private static void main() #hello-from dev2
+=======
+class hello()  #hello-from dev1
+{
+               private static void main() #hello-from dev1
+>>>>>>> 8769f5572c0db4b348765f7d3d21ceff219029b7
    	       }
-	            system.out.prientin ('hello modify dev1');
+	            system.out.prientin ('hello modify by dev1');
 		}
 		   
 }#hello-from dev2
